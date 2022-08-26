@@ -1,1 +1,1 @@
-# Amazon-SDE-Coding-Ninjas
+# Amazon-SDE
